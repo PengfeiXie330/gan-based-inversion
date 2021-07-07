@@ -14,8 +14,8 @@ The code of generative adversarial networks(GANs) is created by Eric laloy, and 
 
 #PART2 inversion code
 
-The code is copy the framework of Eric's ZS method. And the author apply it to seismic inversion and add module seismic inversion.
-The seismic data is provided by Lixin Wang, and inversion code is writed by Fortran.
+The code is based on Matlab. And the author is traslating it to python file.
+The seismic data is provided by Lixin Wang.
 
 
 
