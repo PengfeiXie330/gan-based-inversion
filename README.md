@@ -7,14 +7,14 @@ The code has been uploaded, and details will come soon.
 
 
 #PART1 GANs
-The code of generative adversarial networks(GANs) is created by Eric laloy, and the author rewrite some details to apply for model generations.
+The code of generative adversarial networks(GANs) is created by Eric laloy, and the author rewrites some details to apply for model generations.
 
 
 
 
 #PART2 inversion code
 
-The code is based on Matlab. And the author is traslating it to python file.
+The inversion code is based on devito.
 The seismic data is provided by Lixin Wang.
 
 
